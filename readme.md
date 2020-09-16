@@ -1,5 +1,8 @@
 # [Map] Comércio Ilegal
 
+Join on GMZ Community: https://discord.gg/J2MVhGJ
+
+
 ![enter image description here](https://i.imgur.com/cOA5prh.png)
 
 
