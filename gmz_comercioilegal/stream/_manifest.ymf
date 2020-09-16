@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray/>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>comercioilegal</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+      </itypDepArray>
+    </Item>
+    <Item>
+      <imapName>hei_po1_06_strm_10</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>port_metadata_008_strm</Item>
+        <Item>v_rooftop</Item>
+        <Item>v_utility</Item>
+        <Item>v_traffic_lights</Item>
+        <Item>int_industrial</Item>
+        <Item>v_storage</Item>
+        <Item>v_garage</Item>
+        <Item>v_industrial_2</Item>
+        <Item>v_construction</Item>
+        <Item>v_rubbish</Item>
+        <Item>v_signs</Item>
+        <Item>v_bush</Item>
+        <Item>v_industrial</Item>
+        <Item>v_fences</Item>
+        <Item>v_airport</Item>
+        <Item>v_bins</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+</CPackFileMetaData>
